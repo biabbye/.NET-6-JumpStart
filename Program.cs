@@ -1,3 +1,5 @@
+global using _NET_6_JumpStart.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
